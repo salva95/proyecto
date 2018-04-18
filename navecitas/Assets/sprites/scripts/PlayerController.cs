@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
-	public float speed = 3f;
-	public float maxSpeed = 5f;
+	public float speed = 5f;
+	public float maxSpeed = 7f;
 	private Rigidbody2D rigidbody2D;
 
 	// Use this for initialization
