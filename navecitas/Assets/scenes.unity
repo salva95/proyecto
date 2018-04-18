@@ -1503,8 +1503,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48a9c047787a6f84caf145abe4e536d4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  maxSpeed: 5
+  speed: 5
+  maxSpeed: 7
+  jumpPower: 6.5
 --- !u!212 &623607626
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3203,6 +3204,7 @@ GameObject:
   - component: {fileID: 1252662527}
   - component: {fileID: 1252662526}
   - component: {fileID: 1252662530}
+  - component: {fileID: 1252662531}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3244,7 +3246,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.061695
+  orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3297,6 +3299,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1252662531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1252662525}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 806f2545a457d9244a328d64c75ac050, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 623607624}
 --- !u!1 &1253737120
 GameObject:
   m_ObjectHideFlags: 0
