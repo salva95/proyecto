@@ -10,8 +10,7 @@ public class CameraFollow : MonoBehaviour {
     void Start () {
 
     }
-    
-    // LateUpdate is called after Update each frame
+	
     void FixedUpdate () {
 		float posX = player.transform.position.x;
 		float posY = player.transform.position.y;

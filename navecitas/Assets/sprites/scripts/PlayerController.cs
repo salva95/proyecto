@@ -23,13 +23,15 @@ public class PlayerController : MonoBehaviour {
 		}
 		if(Input.GetKeyDown(KeyCode.Space)) {
 			rigidbody2D.bodyType = RigidbodyType2D.Dynamic;
+			rigidbody2D.freezeRotation = true;
+			rigidbody2D.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 		}
 	}
 
 	void FixedUpdate() {
-		float h = Input.GetAxis("Horizontal");
+		// float h = Input.GetAxis("Horizontal");
 
-		rigidbody2D.AddForce(Vector2.right * speed * h);
+		rigidbody2D.AddForce(Vector2.right * speed * 4);
 
 		if(rigidbody2D.velocity.x > maxSpeed) {
 			rigidbody2D.velocity = new Vector2(maxSpeed, rigidbody2D.velocity.y);
