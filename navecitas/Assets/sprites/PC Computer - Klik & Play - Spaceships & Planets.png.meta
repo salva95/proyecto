@@ -1,0 +1,3775 @@
+fileFormatVersion: 2
+guid: 6f4056365401d8441bc7e66d0b7e2970
+timeCreated: 1524076985
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Klik & Play - Spaceships & Planets_0
+    21300002: PC Computer - Klik & Play - Spaceships & Planets_1
+    21300004: PC Computer - Klik & Play - Spaceships & Planets_2
+    21300006: PC Computer - Klik & Play - Spaceships & Planets_3
+    21300008: PC Computer - Klik & Play - Spaceships & Planets_4
+    21300010: PC Computer - Klik & Play - Spaceships & Planets_5
+    21300012: PC Computer - Klik & Play - Spaceships & Planets_6
+    21300014: PC Computer - Klik & Play - Spaceships & Planets_7
+    21300016: PC Computer - Klik & Play - Spaceships & Planets_8
+    21300018: PC Computer - Klik & Play - Spaceships & Planets_9
+    21300020: PC Computer - Klik & Play - Spaceships & Planets_10
+    21300022: PC Computer - Klik & Play - Spaceships & Planets_11
+    21300024: PC Computer - Klik & Play - Spaceships & Planets_12
+    21300026: PC Computer - Klik & Play - Spaceships & Planets_13
+    21300028: PC Computer - Klik & Play - Spaceships & Planets_14
+    21300030: PC Computer - Klik & Play - Spaceships & Planets_15
+    21300032: PC Computer - Klik & Play - Spaceships & Planets_16
+    21300034: PC Computer - Klik & Play - Spaceships & Planets_17
+    21300036: PC Computer - Klik & Play - Spaceships & Planets_18
+    21300038: PC Computer - Klik & Play - Spaceships & Planets_19
+    21300040: PC Computer - Klik & Play - Spaceships & Planets_20
+    21300042: PC Computer - Klik & Play - Spaceships & Planets_21
+    21300044: PC Computer - Klik & Play - Spaceships & Planets_22
+    21300046: PC Computer - Klik & Play - Spaceships & Planets_23
+    21300048: PC Computer - Klik & Play - Spaceships & Planets_24
+    21300050: PC Computer - Klik & Play - Spaceships & Planets_25
+    21300052: PC Computer - Klik & Play - Spaceships & Planets_26
+    21300054: PC Computer - Klik & Play - Spaceships & Planets_27
+    21300056: PC Computer - Klik & Play - Spaceships & Planets_28
+    21300058: PC Computer - Klik & Play - Spaceships & Planets_29
+    21300060: PC Computer - Klik & Play - Spaceships & Planets_30
+    21300062: PC Computer - Klik & Play - Spaceships & Planets_31
+    21300064: PC Computer - Klik & Play - Spaceships & Planets_32
+    21300066: PC Computer - Klik & Play - Spaceships & Planets_33
+    21300068: PC Computer - Klik & Play - Spaceships & Planets_34
+    21300070: PC Computer - Klik & Play - Spaceships & Planets_35
+    21300072: PC Computer - Klik & Play - Spaceships & Planets_36
+    21300074: PC Computer - Klik & Play - Spaceships & Planets_37
+    21300076: PC Computer - Klik & Play - Spaceships & Planets_38
+    21300078: PC Computer - Klik & Play - Spaceships & Planets_39
+    21300080: PC Computer - Klik & Play - Spaceships & Planets_40
+    21300082: PC Computer - Klik & Play - Spaceships & Planets_41
+    21300084: PC Computer - Klik & Play - Spaceships & Planets_42
+    21300086: PC Computer - Klik & Play - Spaceships & Planets_43
+    21300088: PC Computer - Klik & Play - Spaceships & Planets_44
+    21300090: PC Computer - Klik & Play - Spaceships & Planets_45
+    21300092: PC Computer - Klik & Play - Spaceships & Planets_46
+    21300094: PC Computer - Klik & Play - Spaceships & Planets_47
+    21300096: PC Computer - Klik & Play - Spaceships & Planets_48
+    21300098: PC Computer - Klik & Play - Spaceships & Planets_49
+    21300100: PC Computer - Klik & Play - Spaceships & Planets_50
+    21300102: PC Computer - Klik & Play - Spaceships & Planets_51
+    21300104: PC Computer - Klik & Play - Spaceships & Planets_52
+    21300106: PC Computer - Klik & Play - Spaceships & Planets_53
+    21300108: PC Computer - Klik & Play - Spaceships & Planets_54
+    21300110: PC Computer - Klik & Play - Spaceships & Planets_55
+    21300112: PC Computer - Klik & Play - Spaceships & Planets_56
+    21300114: PC Computer - Klik & Play - Spaceships & Planets_57
+    21300116: PC Computer - Klik & Play - Spaceships & Planets_58
+    21300118: PC Computer - Klik & Play - Spaceships & Planets_59
+    21300120: PC Computer - Klik & Play - Spaceships & Planets_60
+    21300122: PC Computer - Klik & Play - Spaceships & Planets_61
+    21300124: PC Computer - Klik & Play - Spaceships & Planets_62
+    21300126: PC Computer - Klik & Play - Spaceships & Planets_63
+    21300128: PC Computer - Klik & Play - Spaceships & Planets_64
+    21300130: PC Computer - Klik & Play - Spaceships & Planets_65
+    21300132: PC Computer - Klik & Play - Spaceships & Planets_66
+    21300134: PC Computer - Klik & Play - Spaceships & Planets_67
+    21300136: PC Computer - Klik & Play - Spaceships & Planets_68
+    21300138: PC Computer - Klik & Play - Spaceships & Planets_69
+    21300140: PC Computer - Klik & Play - Spaceships & Planets_70
+    21300142: PC Computer - Klik & Play - Spaceships & Planets_71
+    21300144: PC Computer - Klik & Play - Spaceships & Planets_72
+    21300146: PC Computer - Klik & Play - Spaceships & Planets_73
+    21300148: PC Computer - Klik & Play - Spaceships & Planets_74
+    21300150: PC Computer - Klik & Play - Spaceships & Planets_75
+    21300152: PC Computer - Klik & Play - Spaceships & Planets_76
+    21300154: PC Computer - Klik & Play - Spaceships & Planets_77
+    21300156: PC Computer - Klik & Play - Spaceships & Planets_78
+    21300158: PC Computer - Klik & Play - Spaceships & Planets_79
+    21300160: PC Computer - Klik & Play - Spaceships & Planets_80
+    21300162: PC Computer - Klik & Play - Spaceships & Planets_81
+    21300164: PC Computer - Klik & Play - Spaceships & Planets_82
+    21300166: PC Computer - Klik & Play - Spaceships & Planets_83
+    21300168: PC Computer - Klik & Play - Spaceships & Planets_84
+    21300170: PC Computer - Klik & Play - Spaceships & Planets_85
+    21300172: PC Computer - Klik & Play - Spaceships & Planets_86
+    21300174: PC Computer - Klik & Play - Spaceships & Planets_87
+    21300176: PC Computer - Klik & Play - Spaceships & Planets_88
+    21300178: PC Computer - Klik & Play - Spaceships & Planets_89
+    21300180: PC Computer - Klik & Play - Spaceships & Planets_90
+    21300182: PC Computer - Klik & Play - Spaceships & Planets_91
+    21300184: PC Computer - Klik & Play - Spaceships & Planets_92
+    21300186: PC Computer - Klik & Play - Spaceships & Planets_93
+    21300188: PC Computer - Klik & Play - Spaceships & Planets_94
+    21300190: PC Computer - Klik & Play - Spaceships & Planets_95
+    21300192: PC Computer - Klik & Play - Spaceships & Planets_96
+    21300194: PC Computer - Klik & Play - Spaceships & Planets_97
+    21300196: PC Computer - Klik & Play - Spaceships & Planets_98
+    21300198: PC Computer - Klik & Play - Spaceships & Planets_99
+    21300200: PC Computer - Klik & Play - Spaceships & Planets_100
+    21300202: PC Computer - Klik & Play - Spaceships & Planets_101
+    21300204: PC Computer - Klik & Play - Spaceships & Planets_102
+    21300206: PC Computer - Klik & Play - Spaceships & Planets_103
+    21300208: PC Computer - Klik & Play - Spaceships & Planets_104
+    21300210: PC Computer - Klik & Play - Spaceships & Planets_105
+    21300212: PC Computer - Klik & Play - Spaceships & Planets_106
+    21300214: PC Computer - Klik & Play - Spaceships & Planets_107
+    21300216: PC Computer - Klik & Play - Spaceships & Planets_108
+    21300218: PC Computer - Klik & Play - Spaceships & Planets_109
+    21300220: PC Computer - Klik & Play - Spaceships & Planets_110
+    21300222: PC Computer - Klik & Play - Spaceships & Planets_111
+    21300224: PC Computer - Klik & Play - Spaceships & Planets_112
+    21300226: PC Computer - Klik & Play - Spaceships & Planets_113
+    21300228: PC Computer - Klik & Play - Spaceships & Planets_114
+    21300230: PC Computer - Klik & Play - Spaceships & Planets_115
+    21300232: PC Computer - Klik & Play - Spaceships & Planets_116
+    21300234: PC Computer - Klik & Play - Spaceships & Planets_117
+    21300236: PC Computer - Klik & Play - Spaceships & Planets_118
+    21300238: PC Computer - Klik & Play - Spaceships & Planets_119
+    21300240: PC Computer - Klik & Play - Spaceships & Planets_120
+    21300242: PC Computer - Klik & Play - Spaceships & Planets_121
+    21300244: PC Computer - Klik & Play - Spaceships & Planets_122
+    21300246: PC Computer - Klik & Play - Spaceships & Planets_123
+    21300248: PC Computer - Klik & Play - Spaceships & Planets_124
+    21300250: PC Computer - Klik & Play - Spaceships & Planets_125
+    21300252: PC Computer - Klik & Play - Spaceships & Planets_126
+    21300254: PC Computer - Klik & Play - Spaceships & Planets_127
+    21300256: PC Computer - Klik & Play - Spaceships & Planets_128
+    21300258: PC Computer - Klik & Play - Spaceships & Planets_129
+    21300260: PC Computer - Klik & Play - Spaceships & Planets_130
+    21300262: PC Computer - Klik & Play - Spaceships & Planets_131
+    21300264: PC Computer - Klik & Play - Spaceships & Planets_132
+    21300266: PC Computer - Klik & Play - Spaceships & Planets_133
+    21300268: PC Computer - Klik & Play - Spaceships & Planets_134
+    21300270: PC Computer - Klik & Play - Spaceships & Planets_135
+    21300272: PC Computer - Klik & Play - Spaceships & Planets_136
+    21300274: PC Computer - Klik & Play - Spaceships & Planets_137
+    21300276: PC Computer - Klik & Play - Spaceships & Planets_138
+    21300278: PC Computer - Klik & Play - Spaceships & Planets_139
+    21300280: PC Computer - Klik & Play - Spaceships & Planets_140
+    21300282: PC Computer - Klik & Play - Spaceships & Planets_141
+    21300284: PC Computer - Klik & Play - Spaceships & Planets_142
+    21300286: PC Computer - Klik & Play - Spaceships & Planets_143
+    21300288: PC Computer - Klik & Play - Spaceships & Planets_144
+    21300290: PC Computer - Klik & Play - Spaceships & Planets_145
+    21300292: PC Computer - Klik & Play - Spaceships & Planets_146
+    21300294: PC Computer - Klik & Play - Spaceships & Planets_147
+    21300296: PC Computer - Klik & Play - Spaceships & Planets_148
+    21300298: PC Computer - Klik & Play - Spaceships & Planets_149
+    21300300: PC Computer - Klik & Play - Spaceships & Planets_150
+    21300302: PC Computer - Klik & Play - Spaceships & Planets_151
+    21300304: PC Computer - Klik & Play - Spaceships & Planets_152
+    21300306: PC Computer - Klik & Play - Spaceships & Planets_153
+    21300308: PC Computer - Klik & Play - Spaceships & Planets_154
+    21300310: PC Computer - Klik & Play - Spaceships & Planets_155
+    21300312: PC Computer - Klik & Play - Spaceships & Planets_156
+    21300314: PC Computer - Klik & Play - Spaceships & Planets_157
+    21300316: PC Computer - Klik & Play - Spaceships & Planets_158
+    21300318: PC Computer - Klik & Play - Spaceships & Planets_159
+    21300320: PC Computer - Klik & Play - Spaceships & Planets_160
+    21300322: PC Computer - Klik & Play - Spaceships & Planets_161
+    21300324: PC Computer - Klik & Play - Spaceships & Planets_162
+    21300326: PC Computer - Klik & Play - Spaceships & Planets_163
+    21300328: PC Computer - Klik & Play - Spaceships & Planets_164
+    21300330: PC Computer - Klik & Play - Spaceships & Planets_165
+    21300332: PC Computer - Klik & Play - Spaceships & Planets_166
+    21300334: PC Computer - Klik & Play - Spaceships & Planets_167
+    21300336: PC Computer - Klik & Play - Spaceships & Planets_168
+    21300338: PC Computer - Klik & Play - Spaceships & Planets_169
+    21300340: PC Computer - Klik & Play - Spaceships & Planets_170
+    21300342: PC Computer - Klik & Play - Spaceships & Planets_171
+    21300344: PC Computer - Klik & Play - Spaceships & Planets_172
+    21300346: PC Computer - Klik & Play - Spaceships & Planets_173
+    21300348: PC Computer - Klik & Play - Spaceships & Planets_174
+    21300350: PC Computer - Klik & Play - Spaceships & Planets_175
+    21300352: PC Computer - Klik & Play - Spaceships & Planets_176
+    21300354: PC Computer - Klik & Play - Spaceships & Planets_177
+    21300356: PC Computer - Klik & Play - Spaceships & Planets_178
+    21300358: PC Computer - Klik & Play - Spaceships & Planets_179
+    21300360: PC Computer - Klik & Play - Spaceships & Planets_180
+    21300362: PC Computer - Klik & Play - Spaceships & Planets_181
+    21300364: PC Computer - Klik & Play - Spaceships & Planets_182
+    21300366: PC Computer - Klik & Play - Spaceships & Planets_183
+    21300368: PC Computer - Klik & Play - Spaceships & Planets_184
+    21300370: PC Computer - Klik & Play - Spaceships & Planets_185
+    21300372: PC Computer - Klik & Play - Spaceships & Planets_186
+    21300374: PC Computer - Klik & Play - Spaceships & Planets_187
+    21300376: PC Computer - Klik & Play - Spaceships & Planets_188
+    21300378: PC Computer - Klik & Play - Spaceships & Planets_189
+    21300380: PC Computer - Klik & Play - Spaceships & Planets_190
+    21300382: PC Computer - Klik & Play - Spaceships & Planets_191
+    21300384: PC Computer - Klik & Play - Spaceships & Planets_192
+    21300386: PC Computer - Klik & Play - Spaceships & Planets_193
+    21300388: PC Computer - Klik & Play - Spaceships & Planets_194
+    21300390: PC Computer - Klik & Play - Spaceships & Planets_195
+    21300392: PC Computer - Klik & Play - Spaceships & Planets_196
+    21300394: PC Computer - Klik & Play - Spaceships & Planets_197
+    21300396: PC Computer - Klik & Play - Spaceships & Planets_198
+    21300398: PC Computer - Klik & Play - Spaceships & Planets_199
+    21300400: PC Computer - Klik & Play - Spaceships & Planets_200
+    21300402: PC Computer - Klik & Play - Spaceships & Planets_201
+    21300404: PC Computer - Klik & Play - Spaceships & Planets_202
+    21300406: PC Computer - Klik & Play - Spaceships & Planets_203
+    21300408: PC Computer - Klik & Play - Spaceships & Planets_204
+    21300410: PC Computer - Klik & Play - Spaceships & Planets_205
+    21300412: PC Computer - Klik & Play - Spaceships & Planets_206
+    21300414: PC Computer - Klik & Play - Spaceships & Planets_207
+    21300416: PC Computer - Klik & Play - Spaceships & Planets_208
+    21300418: PC Computer - Klik & Play - Spaceships & Planets_209
+    21300420: PC Computer - Klik & Play - Spaceships & Planets_210
+    21300422: PC Computer - Klik & Play - Spaceships & Planets_211
+    21300424: PC Computer - Klik & Play - Spaceships & Planets_212
+    21300426: PC Computer - Klik & Play - Spaceships & Planets_213
+    21300428: PC Computer - Klik & Play - Spaceships & Planets_214
+    21300430: PC Computer - Klik & Play - Spaceships & Planets_215
+    21300432: PC Computer - Klik & Play - Spaceships & Planets_216
+    21300434: PC Computer - Klik & Play - Spaceships & Planets_217
+    21300436: PC Computer - Klik & Play - Spaceships & Planets_218
+    21300438: PC Computer - Klik & Play - Spaceships & Planets_219
+    21300440: PC Computer - Klik & Play - Spaceships & Planets_220
+    21300442: PC Computer - Klik & Play - Spaceships & Planets_221
+    21300444: PC Computer - Klik & Play - Spaceships & Planets_222
+    21300446: PC Computer - Klik & Play - Spaceships & Planets_223
+    21300448: PC Computer - Klik & Play - Spaceships & Planets_224
+    21300450: PC Computer - Klik & Play - Spaceships & Planets_225
+    21300452: PC Computer - Klik & Play - Spaceships & Planets_226
+    21300454: PC Computer - Klik & Play - Spaceships & Planets_227
+    21300456: PC Computer - Klik & Play - Spaceships & Planets_228
+    21300458: PC Computer - Klik & Play - Spaceships & Planets_229
+    21300460: PC Computer - Klik & Play - Spaceships & Planets_230
+    21300462: PC Computer - Klik & Play - Spaceships & Planets_231
+    21300464: PC Computer - Klik & Play - Spaceships & Planets_232
+    21300466: PC Computer - Klik & Play - Spaceships & Planets_233
+    21300468: PC Computer - Klik & Play - Spaceships & Planets_234
+    21300470: PC Computer - Klik & Play - Spaceships & Planets_235
+    21300472: PC Computer - Klik & Play - Spaceships & Planets_236
+    21300474: PC Computer - Klik & Play - Spaceships & Planets_237
+    21300476: PC Computer - Klik & Play - Spaceships & Planets_238
+    21300478: PC Computer - Klik & Play - Spaceships & Planets_239
+    21300480: PC Computer - Klik & Play - Spaceships & Planets_240
+    21300482: PC Computer - Klik & Play - Spaceships & Planets_241
+    21300484: PC Computer - Klik & Play - Spaceships & Planets_242
+    21300486: PC Computer - Klik & Play - Spaceships & Planets_243
+    21300488: PC Computer - Klik & Play - Spaceships & Planets_244
+    21300490: PC Computer - Klik & Play - Spaceships & Planets_245
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 437
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 437
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 437
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 465
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 465
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 465
+        width: 140
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 447
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_7
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 447
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_8
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 447
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 472
+        width: 117
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_10
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 472
+        width: 117
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 472
+        width: 117
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_12
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 273
+        width: 337
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 333
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 333
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 333
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 349
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 349
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 349
+        width: 130
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 346
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_20
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 346
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 346
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_22
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 371
+        width: 73
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_23
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 371
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 371
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_25
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 349
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_26
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 352
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_27
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 352
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_28
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 352
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 216
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 216
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 216
+        width: 144
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_32
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 253
+        width: 143
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_33
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 253
+        width: 143
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_34
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 253
+        width: 143
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 140
+        width: 17
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_36
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 138
+        width: 17
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_37
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 144
+        width: 17
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_38
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 138
+        width: 17
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 254
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_40
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 254
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_41
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 254
+        width: 61
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_42
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 254
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_43
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 251
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_44
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 251
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_45
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 251
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_46
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 251
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_47
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 30
+        width: 200
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 114
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_51
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 109
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_52
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 133
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 154
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_54
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 183
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_55
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 172
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_56
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 167
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_57
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 181
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_58
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 147
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_59
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 181
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_60
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 67
+        width: 342
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 135
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 135
+        width: 104
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_63
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 135
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_64
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 139
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_65
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 101
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_66
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 38
+        width: 184
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 49
+        width: 122
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 46
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 11
+        width: 200
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_71
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 67
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_72
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 67
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_73
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_74
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_75
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_76
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_77
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 67
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_78
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_79
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_80
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 67
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_81
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_82
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 67
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_83
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 65
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_84
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 39
+        width: 174
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_85
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_86
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_87
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 54
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_88
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_89
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 56
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_90
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_91
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 56
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_92
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 56
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_93
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_94
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 56
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_95
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_96
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 44
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_97
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_98
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 44
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_100
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 44
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_101
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 44
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_102
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 44
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_103
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_104
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_105
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_106
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_107
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_108
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 42
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_109
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_110
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_111
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_112
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 44
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_114
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_115
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 44
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_116
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_117
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 43
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_118
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_119
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 44
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_120
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_121
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 44
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_122
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 42
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_123
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_124
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_125
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_126
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 44
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_127
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 44
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_128
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_129
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 40
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_130
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 40
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_131
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_132
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_133
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_134
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_135
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_136
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_137
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_138
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_139
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_140
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 33
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_141
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_142
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_143
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 33
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_144
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_145
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_146
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_147
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_148
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_149
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_150
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_151
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 31
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_152
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 33
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_153
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_154
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_155
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_156
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_157
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_158
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_159
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_160
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 33
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_161
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_162
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_163
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_164
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 33
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_165
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_166
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_167
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 33
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_169
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 22
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_170
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 33
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_171
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 33
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_172
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_173
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 23
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_174
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_175
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 29
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_176
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 20
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_177
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_178
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_179
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_180
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_181
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_182
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 22
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_183
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_184
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_185
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_186
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_187
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_188
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_189
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 22
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_190
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 22
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_191
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_192
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_193
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_194
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_195
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_196
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_197
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_198
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_199
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 22
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_200
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_201
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_202
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_203
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_204
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_205
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 22
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_206
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_207
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_208
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_209
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_210
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 23
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_211
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_212
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 23
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_213
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_214
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_215
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_216
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_217
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_218
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_219
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_220
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_221
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_222
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 23
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_223
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_224
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 11
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_225
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_226
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_227
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_228
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_229
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 11
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_230
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_231
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_232
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_233
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_234
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_235
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_236
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_237
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_238
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 11
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_239
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_240
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_241
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_242
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_243
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_244
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 9
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Klik & Play - Spaceships & Planets_245
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 11
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
